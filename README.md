@@ -7,6 +7,8 @@ Cette plate-forme web fournit à n personnes travaillant ensembles les services 
 - Transfert de fichier direct en p2p,
 - Support de "salles vituelles, c'est-à-dire que la plateforme permet à plusieurs groupes de personnes de participer à des réunions en parallèle, à la manière de appear.in, talky.io, jipsy etc.
 
+The code that does the video chat p2p is at js/mains.js
+
 How to test
 
 1. create a mongodb database named "testRooms" : use testRooms
@@ -15,3 +17,4 @@ How to test
 4. node server.js
 5. open google chrome and enter localhost:2013
 6. if you want to test with several computers, get the server ip address, and enter [ip]:2013
+
