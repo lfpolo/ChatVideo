@@ -14,4 +14,4 @@ How to test
 3. open a terminal and enter into the folder of the project
 4. node server.js
 5. open google chrome and enter localhost:2013
-6. if you want to test with several computers, get the server ip address, and enter **.**.**.**:2013
+6. if you want to test with several computers, get the server ip address, and enter [ip]:2013
